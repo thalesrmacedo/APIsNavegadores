@@ -8,4 +8,4 @@ Confira o [vídeo](https://www.youtube.com/watch?v=VuDJZHo01wE) no Youtube que e
 5. **Speech Recognition API:** https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
 6. **WebRTC API:** https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
 7. **Page Visibility API:** https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API
-8. **Ambient Light Sensor:** https://developer.mozilla.org/en-US/docs/Web/API/AmbientLightSensor
+8. **Ambient Light Sensor API:** https://developer.mozilla.org/en-US/docs/Web/API/AmbientLightSensor
